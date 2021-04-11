@@ -153,13 +153,12 @@ button{
   position: absolute;
   left: 0;
   top: 0;
-      background-color: #dddd;
+  background-color: #dddd;
   width: 300px;
   height: 100%;
   padding-top: 280px;
-  background-image: url(images/bg4.jpg);
+  background-image: url(images/bg4.JPG);
   background-size: cover;
-  
 }
 
 
