@@ -153,7 +153,7 @@ button{
   position: absolute;
   left: 0;
   top: 0;
-  
+      background-color: #dddd;
   width: 300px;
   height: 100%;
   padding-top: 280px;
