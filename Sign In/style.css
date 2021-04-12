@@ -157,7 +157,7 @@ button{
   width: 300px;
   height: 100%;
   padding-top: 280px;
-  background-image: url(bg4.png);
+  background: url(bg4.png);
   background-size: cover;
 }
 
